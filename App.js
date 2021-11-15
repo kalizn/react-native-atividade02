@@ -30,8 +30,8 @@ const P = styled.Text`
 export default function App() {
   return (
     <Body>
-      <P>Galeria de imagens do Neto</P>
-      <P>Antonio Pedrosa Araujo Neto</P>
+      <P>Galeria do Antonio Pedrosa Araujo Neto</P>
+      <P>Tema: Mangá, Manhwa, Manhua</P>
       <Div>
         <Quadrado>
           <Image source={require('./src/images/hero.jpg')} 
